@@ -1,0 +1,7 @@
+.navBar a {
+  color: #fff;
+}
+.navBar a:hover,
+span {
+  color: orange;
+}
